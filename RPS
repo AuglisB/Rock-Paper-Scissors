@@ -1,4 +1,4 @@
-Thisprogram contains rock, paper, scissors the game where you play against the computer.
+This program contains rock, paper, scissors the game where you play against the computer.
 
 import random
 
